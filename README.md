@@ -18,6 +18,7 @@ An enhanced EC2 remediation system that adds a conversational AI Agent on top of
 - AWS Integration Server connection, credentials, and API endpoint
 - Logging table and data model for audit parity
 
+![Enhanced Architecture Diagram](./Diagram.png)
 
 - *Agent definition*  
   ![Agent record](./screenshots/01-agent-record.png)
