@@ -143,7 +143,7 @@ Add **Diagram.png** (created in Draw.io) to the repo root and reference it here:
 - **Separation of duties:** read-only lookup vs supervised execution improves safety
 - **Supervised runs** add execution plan records you should export for review
 
-**Screenshots to support comparison**
+
 - *Manual UI action (baseline)*  
   ![Manual UI Action](./screenshots/10-manual-ui-action.png)
 - *AI chat success (ID extracted → Approve → restarted → log number)*  
